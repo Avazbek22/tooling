@@ -2,6 +2,14 @@
 
 ## Big Data Tooling
 
+## Analytics
+
+- [Tableau](https://www.tableau.com/en-gb): 
+- [Looker](https://cloud.google.com/looker?hl=en)
+- [Sisense](https://www.sisense.com/): an AI-powered analytics platform that helps teams model, visualize, and embed data experiences—now with tools like assistant and MCP server to speed up creation and deliver insights where users work.
+- [Power BI](https://www.microsoft.com/en/power-platform/products/power-bi?market=af)
+- [Apache Superset](https://superset.apache.org/): an open-source modern data exploration and visualization platform.
+
 ## Streaming
 
 - [Apache Kafka](https://kafka.apache.org/): an event streaming platform.
