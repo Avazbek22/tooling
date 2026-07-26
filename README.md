@@ -74,6 +74,7 @@
 
 - [Task](https://taskfile.dev/#/): a task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make.
 - [DevUtils](https://devutils.app/): for MacOnly: Offline Toolbox for Developers
+- [DevProjex](https://github.com/Avazbek22/DevProjex): builds clean, AI-ready project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export through a fast GUI and CLI.
 - [Github Copilot](https://copilot.github.com/): AI pair programmer
 - [Gitpod](https://www.gitpod.io/): a container-based development platform that puts developer experience first. Gitpod provisions ready-to-code developer environments in the cloud accessible through your browser (on your computer or tablet) and your local IDE.
 - [Atomicjar](https://www.atomicjar.com/): Testcontainers Cloud
